@@ -11,7 +11,7 @@ public class P2_main {
 }
 /*echo "# Uebung7" >> README.md
 git init
-git add README.md
+git add .
 git commit -m "first commit"
 git branch -M main
 git remote set-url origin https://github.com/tutsi193/Uebung7.git
